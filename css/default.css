@@ -356,7 +356,7 @@ li p { }
 	margin: 6px 0 0 0;
 	font-size: 13px;
 	font-family: 'opensans-regular', sans-serif;
-   color: #8B9798;
+   color: #988b8c;
 }
 
 /* definition list */
@@ -416,7 +416,7 @@ dd { margin: 0 0 0 20px; }
    padding: 6px 10px;
    margin-right: 3px;
    margin-bottom: 6px;
-	color: #6E757C;
+	color: #7c6e70;
 	background-color: #E6E8EB;
 
 	-webkit-transition: all 200ms ease-in-out;
